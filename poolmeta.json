@@ -1,9 +1,1 @@
-  
-        {
-
-          "name": “Draig_Pool”,
-          "description": "My stake pool",
-          "ticker": “DRAIG”,
-          "homepage": "https://github.com/OneInchMan69/DRAIGPOOL_TESTNET"
-
-        }
+{"name":"Draig_Pool","ticker":"DRAIG","description":"Draig Pool Testnet","homepage":"https://github.com/OneInchMan69/pool","nonce":"1614948409"}
